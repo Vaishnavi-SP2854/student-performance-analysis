@@ -150,4 +150,4 @@ Version Control with GitHub
 This project demonstrates how student performance data can be transformed
 into meaningful insights using Python and visualized through an interactive
 dashboard. It showcases practical data analytics skills applicable to
-internships, academic projects, and entry-level data roles.
+internships, academic projects, and entry-level data roles...
