@@ -71,7 +71,7 @@ The **final grade** is used as the primary indicator of student performance.
 - Summarized key insights
 - Provided actionable recommendations
 
----
+--
 
 ## 📈 Streamlit Dashboard Features
 - Interactive filters and inputs
