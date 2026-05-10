@@ -8,7 +8,7 @@ extracurricular activities influence academic outcomes.
 In addition to data analysis using Python, an **interactive Streamlit dashboard**
 is built to visualize insights and allow users to input student details and
 predict performance levels.
-
+.
 ---
 
 ## 🎯 Objectives
